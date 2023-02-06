@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "awsworkshop240f52a2": {}
+      },
+      "api": {
+        "awsworkshop": {}
       }
     }
   }
