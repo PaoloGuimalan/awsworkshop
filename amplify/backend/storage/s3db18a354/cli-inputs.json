@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3db18a354",
+  "policyUUID": "db18a354",
+  "bucketName": "awsworkshop5a94574374a0453f9267d28fa83d13f7",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

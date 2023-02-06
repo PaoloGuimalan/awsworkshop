@@ -17,6 +17,9 @@
       },
       "api": {
         "awsworkshop": {}
+      },
+      "storage": {
+        "s3db18a354": {}
       }
     }
   }
